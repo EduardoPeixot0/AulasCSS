@@ -1,0 +1,24 @@
+body{
+   background-color: gray;  
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    text-shadow: 5px 9px 5px cornflowerblue;
+    font-style: italic;
+    line-height: 1cm;
+}
+h1{
+    font-size: 50px;
+    text-align:left;
+    text-shadow: 8px 10px 9px rgb(248, 248, 247);
+    font-style:inherit;
+    line-height: 2cm;
+}
+.canva{
+    font-size: 100px;
+    text-align:start;
+    text-shadow: 10px 10px 14px rgb(237, 11, 207);
+    font-style:unset;
+    line-height: 4cm;
+}
