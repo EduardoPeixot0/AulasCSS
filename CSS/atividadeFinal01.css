@@ -1,0 +1,11 @@
+h1{
+    border-top: 10px solid chocolate ;
+    border-right:10px outset chartreuse ;
+    border-bottom: 10px dotted blue;
+    border-left: 10px  dashed hotpink;
+
+}
+main{
+    border: solid cornflowerblue;
+    border-radius: 50;
+}
